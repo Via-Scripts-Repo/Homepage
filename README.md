@@ -1,5 +1,7 @@
 # Via脚本仓库
 
+# 欢迎参与维护，直接开Issue即可
+
 ## 关于
 
 [Via](https://github.com/tuyafeng/Via)是个杰出的浏览器，可惜由于先前的脚本下载站或空空如也，或内容重复、年久失修，始终无法比上[Greasy Fork](https://greasyfork.org/zh-CN)的规模。为此，我建立了这个脚本仓库，希望Via的脚本功能越来越实用，也就是：
